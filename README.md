@@ -22,6 +22,4 @@ npm run lint
 
 ### 展示
 
-![image-20210129202056739](C:\Users\22829\AppData\Roaming\Typora\typora-user-images\image-20210129202056739.png)
-
-![image-20210129202108896](C:\Users\22829\AppData\Roaming\Typora\typora-user-images\image-20210129202108896.png)
+![](D:\学习笔记\03Vue\vuecode\vue基本学习\vue-todo-list\src\image\img.png)
