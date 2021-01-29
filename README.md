@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 展示
+
+![image-20210129202056739](C:\Users\22829\AppData\Roaming\Typora\typora-user-images\image-20210129202056739.png)
+
+![image-20210129202108896](C:\Users\22829\AppData\Roaming\Typora\typora-user-images\image-20210129202108896.png)
